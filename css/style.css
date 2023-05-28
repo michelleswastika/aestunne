@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #355EFC;
-    --secondary: #E93C05;
-    --tertiary: #555555;
+    --primary: #A68B80;
+    --secondary: #D8C5B4;
+    --tertiary: #5A4645;
     --light: #DFE4FD;
     --dark: #011A41;
 }
@@ -238,7 +238,7 @@ h6,
     height: 50%;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(53, 94, 252, .95), rgba(53, 94, 252, .95)), url(../img/bg.png);
+    background: linear-gradient(rgba(65,47,45, .95), rgba(65,47,45, .85)), url(../img/background.png);
     z-index: -1;
 }
 
